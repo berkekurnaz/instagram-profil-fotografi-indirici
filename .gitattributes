@@ -1,0 +1,11 @@
+*.js linguist-detectable=true
+*.html linguist-detectable=false
+*.handlebars linguist-detectable=false
+*.css linguist-detectable=false
+*.less linguist-detectable=false
+*.scss linguist-detectable=false
+*.html linguist-language=Javascript
+*.handlebars linguist-language=Javascript
+*.css linguist-language=Javascript
+*.less linguist-language=Javascript
+*.scss linguist-language=Javascript
